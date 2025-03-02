@@ -1,11 +1,11 @@
 {
   "button": {
     "bg": {
-      "value": "#A9CCFF",
+      "value": "#FFB9AA",
       "type": "color"
     },
     "fg": {
-      "value": "#020046",
+      "value": "#250000",
       "type": "color"
     }
   },
