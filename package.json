@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Install your dependencies with [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm):",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "style-dictionary": "^4.3.3"
+  }
+}
